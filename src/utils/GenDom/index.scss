@@ -1,0 +1,8 @@
+.tao-box,
+.tao-box * {
+  box-sizing: border-box;
+}
+
+[tao-direct='y'] {
+  display: flex;
+}
